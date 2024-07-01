@@ -1,0 +1,17 @@
+*{
+  padding: 0;
+  margin: 0;
+ 
+  
+background-color: rgb(28, 146, 146);
+
+}
+#album{
+color: rgb(243, 245, 242);
+}
+#head{
+text-align: center;
+box-shadow: 2px 3px 5px rgb(252, 249, 249);
+padding:  50px;
+
+}

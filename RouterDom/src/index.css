@@ -1,0 +1,45 @@
+body{
+    background-image: url(https://plus.unsplash.com/premium_photo-1669106605263-142b56a14695?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+
+}
+.container{
+    color: black;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 40px;
+    
+    }
+    .descr{
+        font-size: 15px;
+    }
+    #btn4{
+        color: white;
+        background-color: rgb(15, 113, 151);
+        border-radius: 10px;
+        text-align: center;
+        margin-left: 40px;
+    }
+    #img{
+        margin-left: 80px;
+        margin-top: 60px;
+    }
+    #signup{
+        margin-top: 200px;
+    }
+    #login{
+        margin-top: 200px;
+       
+    }
+    #pr-container{
+        color: white;
+    }
+    #pr-info{
+        text-align: center;
+        font-size: 40px;
+        font-weight: bolder;
+    }
+    #btn-1{
+        border: 2px solid white;
+        color: rgb(185, 173, 173);
+        border-radius: 10px;
+    }

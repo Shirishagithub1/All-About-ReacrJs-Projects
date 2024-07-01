@@ -1,0 +1,26 @@
+.colors{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+#ProductName{
+color: aqua;
+  background-color: brown;
+  width: 200px;
+}
+#center{
+  text-align: center;
+}
+#form-control{
+  margin: auto;
+  width: 250px;
+  text-align: center ;  
+}
+#loader{
+  text-align: center;
+  
+}
+#form-control{
+  color: white;
+  font-weight: bold;
+}
+

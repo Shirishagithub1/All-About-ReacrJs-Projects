@@ -1,0 +1,38 @@
+.image{
+  color: red;
+  height: 200px;
+}
+.description{
+  font-size: 15px;
+  margin-top: 20px;
+}
+.container{
+text-align: center;
+  color: rgb(5, 6, 68);
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+ height: 100%;
+  gap: 20px;
+  border: 1px solid;
+  padding: 10px;
+  
+ 
+  box-shadow: 50px 50px 50px black;
+  /* background-image: url('https://as2.ftcdn.net/v2/jpg/01/06/84/75/1000_F_106847582_7JcRyHVy0xsp9qIDvuccmdl5oz3jorbm.jpg'); */
+}
+.name1{
+  font-size: 13px;
+  color: rgb(241, 142, 12);
+}
+.pr-container{
+  text-align: center;
+  color: rgb(85, 32, 32);
+  font-weight: bold;
+  font-size: 40px;
+  background-color: rgb(51, 241, 18);
+  height: 100px;
+}
+.Price1{
+  font-size: 22px;
+  font-weight: bold;
+}

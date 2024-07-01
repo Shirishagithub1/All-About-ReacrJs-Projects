@@ -1,0 +1,65 @@
+
+body{
+  background-image: url('https://t3.ftcdn.net/jpg/04/96/62/58/360_F_496625887_B8hqrUzrtKyCVcDzExyCUtwKwrLQ7FGP.jpg');
+}.product-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+  margin: 20px;
+}
+
+.card {
+  width: 250px;
+  padding: 16px;
+  border-radius: 5px;
+  box-shadow: 5px 5px 10px gray;
+  color: rgb(12, 3, 41);
+  font-weight: bolder;
+}
+
+.card img {
+  width: 150px;
+  height: 150px;
+  object-fit: contain;
+  text-align: center;
+  margin-left: 50px;
+}
+h1{
+  
+color: rgb(10, 10, 8);
+  border: 2px solid red;
+  border-radius: 20px;
+  width: 400px;
+  height: 50px;
+  font-weight: bold;
+  font-size: 50px;
+  margin-left: 500px;
+  text-align: center;
+  background-color: rgb(249, 253, 253);
+  margin-bottom: 10px;
+}
+.cat1{
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  border: 1px solid black;
+  width: 160px;
+  background-color: rgb(6, 146, 99);
+  box-shadow: 5px 5px 10px gray;
+  border-radius: 20px;
+  text-align: center;
+}
+.good{
+  background-color: green;
+  width: 170px;
+  border: 1px solid black;
+  border-radius: 20px;
+padding: 5px;
+}
+.bad{
+  background-color: red;
+  width: 170px;
+  border: 1px solid black;
+  border-radius: 20px;
+padding: 5px;
+}
